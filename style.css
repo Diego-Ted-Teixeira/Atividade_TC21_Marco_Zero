@@ -1,0 +1,46 @@
+body{
+    background-color: aqua;
+}
+
+header {
+    align-items: center;
+    background-image: -webkit-image-set(
+        url(/IMG/marco_zero1.jpg)
+        );
+    
+}
+
+.h1 {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    
+    
+}
+
+.imghead{
+    display: flex;
+    justify-content: end;
+}
+
+.link-preto{
+    color: black;
+}
+
+
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    padding: 12px;
+    margin-bottom: 12px;
+    list-style-type: none;
+    
+    
+}
+
+nav ul li {
+    text-decoration: none;
+    text-decoration-line: none;
+    
+}
